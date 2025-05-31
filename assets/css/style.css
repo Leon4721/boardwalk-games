@@ -26,6 +26,18 @@ h3{
 .sub-heading-color{
   color: var(--highlight-color);
 }
+
+/* Navbar */
+#navbar {
+  background-color: var(--primary-color);}
+  #nsvbsr{
+
+background-color: var(--primary-color);
+  }
+  #navbar .logo {
+    width:40px
+  }
+
 /*grid visualisation CSS for testing*/
 
 /*.container,
